@@ -24,3 +24,4 @@ It’s a medical database used for sending online claims from healthcare provide
 # Bar graph showing gender and age category of the patients against the count
 ![0001](https://user-images.githubusercontent.com/47631583/52788776-e1cc5c80-3059-11e9-9ef5-c7d6fc8bb349.jpg)
 # NEO4J Graph showing the relationship between claim , invoice and service
+![picture1](https://user-images.githubusercontent.com/47631583/52789872-01b14f80-305d-11e9-8556-5cf00882a42a.png)
