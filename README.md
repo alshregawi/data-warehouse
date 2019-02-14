@@ -19,3 +19,5 @@ It’s a medical database used for sending online claims from healthcare provide
 # Bar graph representing the top 10 most common diagnosis
 ![top10diagnosis-1](https://user-images.githubusercontent.com/47631583/52788938-64551c00-305a-11e9-9ef3-fcb4b4a7e3a8.jpg)
 # Bar graph showing the count of patients per day
+![0001 1](https://user-images.githubusercontent.com/47631583/52788819-00caee80-305a-11e9-87cb-f265a54a3c24.jpg)
+# Bar graph showing gender and age category of the patients against the count
