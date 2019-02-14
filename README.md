@@ -21,3 +21,4 @@ It’s a medical database used for sending online claims from healthcare provide
 # Bar graph showing the count of patients per day
 ![0001 1](https://user-images.githubusercontent.com/47631583/52788819-00caee80-305a-11e9-87cb-f265a54a3c24.jpg)
 # Bar graph showing gender and age category of the patients against the count
+![0001](https://user-images.githubusercontent.com/47631583/52788776-e1cc5c80-3059-11e9-9ef5-c7d6fc8bb349.jpg)
