@@ -14,7 +14,8 @@ It’s a medical database used for sending online claims from healthcare provide
 2-customers (Patients) record (Patient fact table)
 3-insurance data (Policy dimension)
 4-financial data (policy fact)
-# Visualizing the data using R,SRSS and NEO4J
+![piano](https://user-images.githubusercontent.com/47631583/52788003-87320100-3057-11e9-9a7f-83488a1c11f1.png)
+# Visualizing the data using R and NEO4J
 
 # Bar graph representing the top 10 most common diagnosis
 ![top10diagnosis-1](https://user-images.githubusercontent.com/47631583/52788938-64551c00-305a-11e9-9ef3-fcb4b4a7e3a8.jpg)
@@ -22,3 +23,4 @@ It’s a medical database used for sending online claims from healthcare provide
 ![0001 1](https://user-images.githubusercontent.com/47631583/52788819-00caee80-305a-11e9-87cb-f265a54a3c24.jpg)
 # Bar graph showing gender and age category of the patients against the count
 ![0001](https://user-images.githubusercontent.com/47631583/52788776-e1cc5c80-3059-11e9-9ef5-c7d6fc8bb349.jpg)
+# NEO4J Graph showing the relationship between claim , invoice and service
