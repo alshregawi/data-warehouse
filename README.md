@@ -14,3 +14,6 @@ It’s a medical database used for sending online claims from healthcare provide
 2-customers (Patients) record (Patient fact table)
 3-insurance data (Policy dimension)
 4-financial data (policy fact)
+# Visualizing the data using R,SRSS and NEO4J
+
+# Bar graph representing the top 10 most common diagnosis
